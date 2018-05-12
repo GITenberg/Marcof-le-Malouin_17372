@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '7332'
     url: http://www.gutenberg.org/2009/agents/7332
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17372#Marcof-le-Malouin
 gutenberg_bookshelf:
 - FR Littérature
 - Pirates, Buccaneers, Corsairs, etc.
